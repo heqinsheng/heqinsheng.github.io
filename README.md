@@ -62,7 +62,7 @@
 
 <br>
    
-2. **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6)
+2. **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6) | 期刊年度精选
 
 <details>
 <summary>氮化物屏障用作环境涂层：来自第一性原理计算的关键微观机制和重大应用</summary>
