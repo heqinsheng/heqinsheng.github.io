@@ -133,6 +133,8 @@
   
 </details> 
 
+<br>
+
 4. Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Transforming ionogel electrolytes into active electrochemical regulators for durable lithium-sulfur batteries*, **Journal of Energy Chemistry**. | (under review)
 
 <details>
