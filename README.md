@@ -71,11 +71,10 @@
 
 - 强调氮化物涂层的环境耐久性由“环境介质-表/界面化学反应-微观缺陷结构”三者共同决定，而第一性原理计算是解析这些交互、指导涂层精准设计的核心工具。
 
+**氢渗透阻挡涂层**
 <p align="center">
   <img src="images/2024_Rev_Nitride_Fig_1.webp" alt="Fig_1" width="95%"/>
 </p>
-
-**氢渗透阻挡涂层**
 
 • 关键过程：氢分子在表面的吸附/解离 -> 原子氢进入次表面 -> 沿晶格或晶界扩散 -> 在基底或界面被捕获。
 
@@ -83,11 +82,10 @@
 
 • 设计启示：通过调控晶粒尺寸、多层/超晶格结构或复合界面，可同步提高氢捕获密度并阻断连续扩散路径。
 
+**耐高温涂层**
 <p align="center">
   <img src="images/2024_Rev_Nitride_Fig_4.webp" alt="Fig_4" width="95%"/>
 </p>
-
-**耐高温涂层**
 
 • 关键过程：O₂分子吸附/解离 -> 氧向内扩散 -> 氮向外流失 -> 氧化物/氮化物界面空洞化。
 
@@ -95,11 +93,10 @@
 
 • 设计启示：元素掺杂+多层/梯度结构协同提升抗氧化寿命。
 
+**摩擦腐蚀防护涂层**
 <p align="center">
   <img src="images/2024_Rev_Nitride_Fig_7.webp" alt="Fig_7" width="95%"/>
 </p>
-
-**摩擦腐蚀防护涂层**
 
 • 关键过程：磨损破坏表面钝化膜 -> 新鲜金属/氮化物暴露 -> 侵蚀性离子（Cl⁻）优先沿晶界/缺陷通道渗透 -> 诱发空位-腐蚀坑-微裂纹 -> 削弱力学强度 -> 磨损加剧，形成“磨损-腐蚀”正反馈循环。
 
@@ -135,3 +132,5 @@
 <summary>原子氧辐照环境下 MoS₂/W 多层膜的耐辐照性能提升及超润滑行为诱导</summary>
   
 </details> 
+
+4. Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Defect-Dipole Polarization and Interlayer Polarization Synergistically Enabling High-Dielectric Composite Solid Electrolytes*, **Journal of Energy Chemistry** (under review)
