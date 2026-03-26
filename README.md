@@ -133,4 +133,11 @@
   
 </details> 
 
-4. Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Defect-Dipole Polarization and Interlayer Polarization Synergistically Enabling High-Dielectric Composite Solid Electrolytes*, **Journal of Energy Chemistry** (under review)
+4. Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Defect-Dipole Polarization and Interlayer Polarization Synergistically Enabling High-Dielectric Composite Solid Electrolytes*, **Journal of Energy Chemistry**. | (under review)
+
+<details>
+<summary>离子凝胶电解质的改性调控达成长寿命锂硫电池</summary>
+  
+</details> 
+
+<br>
