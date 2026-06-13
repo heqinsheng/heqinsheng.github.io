@@ -107,38 +107,13 @@
 </details> 
 
 **Under Preparation**
+
 [3] **Q. He**, et al., *Adsorbate-induced grain boundary embrittlement in Ni-rich NMC Cathodes*
 
 ---
 ## 🔗 合作工作（Collaborative Works）
-1. Y. Jin, **Q. He**, G. Liu, et al., *Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> enables stable all-solid-state lithium batteries*, **Advanced Materials** 35, 2211047 (2023). | [DOI](https://doi.org/10.1002/adma.202211047) | 🔥高被引
 
-<details>
-<summary>氟化Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质稳定全固态锂电池</summary>
-  
-</details> 
-
-<br>
-
-2. N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*, **Advanced Materials** 36, 2408903 (2024). | [DOI](https://doi.org/10.1002/adma.202408903) | 🔥高被引
-
-<details>
-<summary>均匀氟掺杂实现高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质以迈向全固态锂电池</summary>
-  
-</details> 
-
-<br>
-
-3. X. Fan#, W. He#, Z. Zhang#, B. He, Y. Lin, **Q. He**, L.-F. Huang, S. Ren*, Z. Lu*, J. Pu*, Q. Xue, *Enhancing irradiation tolerance and inducing superlubricity in MoS<sub>2</sub>/W multilayer film exposed to atomic oxygen*, **Communications Materials** 6, 160 (2025). | [DOI](https://www.nature.com/articles/s43246-025-00884-2)
-
-<details>
-<summary>原子氧辐照环境下 MoS₂/W 多层膜的耐辐照性能提升及超润滑行为诱导</summary>
-  
-</details> 
-
-<br>
-
-4. Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries*, **Journal of Energy Chemistry**. 119  849-866 (2026). | [DOI](10.1016/j.jechem.2026.05.007)
+[4] Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries*, **Journal of Energy Chemistry**. 119  849-866 (2026). | [DOI](10.1016/j.jechem.2026.05.007)
 
 <details>
 <summary>通过集成离子凝胶聚合物电解质的工程策略，增强准固态锂硫电池中的离子传输性能与硫氧化还原反应效率</summary>
@@ -180,6 +155,30 @@
 
 • 发现CoN表面Li<sup>+</sup>扩散能垒低至0.085 eV，比Co<sub>2</sub>C低了近一个数量级。这意味着CoN不仅是催化剂，更是天然的“离子高速公路”，理论扩散系数高出5个数量级
 
+[3] X. Fan#, W. He#, Z. Zhang#, B. He, Y. Lin, **Q. He**, L.-F. Huang, S. Ren*, Z. Lu*, J. Pu*, Q. Xue, *Enhancing irradiation tolerance and inducing superlubricity in MoS<sub>2</sub>/W multilayer film exposed to atomic oxygen*, **Communications Materials** 6, 160 (2025). | [DOI](https://www.nature.com/articles/s43246-025-00884-2)
+
+<details>
+<summary>原子氧辐照环境下 MoS₂/W 多层膜的耐辐照性能提升及超润滑行为诱导</summary>
+  
 </details> 
+
+<br>
+
+[2] N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*, **Advanced Materials** 36, 2408903 (2024). | [DOI](https://doi.org/10.1002/adma.202408903) | 🔥高被引
+
+<details>
+<summary>均匀氟掺杂实现高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质以迈向全固态锂电池</summary>
+  
+</details> 
+
+<br>
+
+[1] Y. Jin, **Q. He**, G. Liu, et al., *Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> enables stable all-solid-state lithium batteries*, **Advanced Materials** 35, 2211047 (2023). | [DOI](https://doi.org/10.1002/adma.202211047) | 🔥高被引
+
+<details>
+<summary>氟化Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质稳定全固态锂电池</summary>
+  
+</details> 
+
 
 <br>
