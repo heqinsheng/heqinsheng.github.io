@@ -40,6 +40,10 @@
 ---
 ## 📑 第一作者工作（First-Author Works）
 
+
+
+[3] (Under Preparation) **Q. He**, et al., *Adsorbate-induced grain boundary embrittlement in Ni-rich NMC Cathodes*
+
 [2] **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
 <details>
@@ -105,10 +109,6 @@
 • 设计启示：细化晶粒能够延长 Cl⁻ 有效扩散路径，同时捕集这些 Cl⁻；引入润滑相以降低摩擦系数，从而缓解钝化膜破损。
 
 </details> 
-
-**Under Preparation**
-
-[3] **Q. He**, et al., *Adsorbate-induced grain boundary embrittlement in Ni-rich NMC Cathodes*
 
 ---
 ## 🔗 合作工作（Collaborative Works）
