@@ -43,7 +43,11 @@
 
 
 [3] (Under Preparation) **Q. He**, et al., *Interfacial adsorbate-induced grain boundary decohesion in Ni-rich NMC Cathodes*, (2026).
+
+<details>
 <summary>界面吸附物诱导的高镍NMC正极晶界解理</summary>
+
+</details> 
 
 [2] **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
