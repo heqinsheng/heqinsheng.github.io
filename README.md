@@ -3,6 +3,7 @@
 📍 Xi'an, China 
 | [GitHub](https://github.com/QS-He)
 | [ResearchGate](https://www.researchgate.net/profile/He-Qin-Sheng?ev=prf_overview) |
+| [RedNote](https://www.xiaohongshu.com/user/profile/638e3438000000001f01b9e7) |
 
 
 
