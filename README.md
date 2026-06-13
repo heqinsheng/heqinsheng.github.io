@@ -72,7 +72,7 @@
 
 **氢渗透阻挡涂层**
 <p align="center">
-  <img src="images/2024_Rev_Nitride_Fig_1.webp" alt="Fig_1" width="95%"/>
+  <img src="images/2024_Rev_Nitride_Fig_1.webp" alt="Fig_1" width="90%"/>
 </p>
 
 • 关键过程：氢分子在表面的吸附/解离 -> 原子氢进入次表面 -> 沿晶格或晶界扩散 -> 在基底或界面被捕获。
@@ -83,7 +83,7 @@
 
 **耐高温涂层**
 <p align="center">
-  <img src="images/2024_Rev_Nitride_Fig_4.webp" alt="Fig_4" width="95%"/>
+  <img src="images/2024_Rev_Nitride_Fig_4.webp" alt="Fig_4" width="90%"/>
 </p>
 
 • 关键过程：O₂分子吸附/解离 -> 氧向内扩散 -> 氮向外流失 -> 氧化物/氮化物界面空洞化。
@@ -94,7 +94,7 @@
 
 **摩擦腐蚀防护涂层**
 <p align="center">
-  <img src="images/2024_Rev_Nitride_Fig_7.webp" alt="Fig_7" width="95%"/>
+  <img src="images/2024_Rev_Nitride_Fig_7.webp" alt="Fig_7" width="80%"/>
 </p>
 
 • 关键过程：磨损破坏表面钝化膜 -> 新鲜金属/氮化物暴露 -> 侵蚀性离子（Cl⁻）优先沿晶界/缺陷通道渗透 -> 诱发空位-腐蚀坑-微裂纹 -> 削弱力学强度 -> 磨损加剧，形成“磨损-腐蚀”正反馈循环。
