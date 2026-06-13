@@ -124,7 +124,7 @@
   
 - 本研究设计了一种离子凝胶聚合物电解质（Co<sub>2</sub>C/CoN/NC-GPE-IL），将Co<sub>2</sub>C/CoN异质结构负载于三维氮掺杂碳骨架上，并引入EMIM:DCA离子液体，实现了对多硫化物的强吸附与催化转化，同时提高离子电导率和安全性。电池在0.5C下循环200次容量保持85%，4C下2000次循环每圈衰减仅0.015%
 
-- 本人承担全部DFT和MD模拟工作，从原子层面揭示了该聚合物电解质体系的微观调控规律
+- 通过DFT和MD模拟，从原子层面揭示了该聚合物电解质体系的微观调控规律
 
 **溶剂化结构与氢键网络**
 <p align="center">
@@ -154,6 +154,8 @@
 • Co<sub>2</sub>C表面则展现更强的多硫化物吸附能力
 
 • 发现CoN表面Li<sup>+</sup>扩散能垒低至0.085 eV，比Co<sub>2</sub>C低了近一个数量级。这意味着CoN不仅是催化剂，更是天然的“离子高速公路”，理论扩散系数高出5个数量级
+
+</details> 
 
 [3] X. Fan#, W. He#, Z. Zhang#, B. He, Y. Lin, **Q. He**, L.-F. Huang, S. Ren*, Z. Lu*, J. Pu*, Q. Xue, *Enhancing irradiation tolerance and inducing superlubricity in MoS<sub>2</sub>/W multilayer film exposed to atomic oxygen*, **Communications Materials** 6, 160 (2025). | [DOI](https://www.nature.com/articles/s43246-025-00884-2)
 
