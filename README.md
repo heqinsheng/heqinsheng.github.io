@@ -140,23 +140,36 @@
 <details>
 <summary>通过集成离子凝胶聚合物电解质的工程策略，增强准固态锂硫电池中的离子传输性能与硫氧化还原反应效率</summary>
  
+  <p align="center">
+  <img src="images/2026_JEC_Li-S_TOC.jpg" alt="TOC" width="95%"/>
+</p>
+  
 - 本研究设计了一种离子凝胶聚合物电解质（Co<sub>2</sub>C/CoN/NC-GPE-IL），将Co<sub>2</sub>C/CoN异质结构负载于三维氮掺杂碳骨架上，并引入EMIM:DCA离子液体，实现了对多硫化物的强吸附与催化转化，同时提高离子电导率和安全性。电池在0.5C下循环200次容量保持85%，4C下2000次循环每圈衰减仅0.015%
 
 - 本人承担全部DFT和MD模拟工作，从原子层面揭示了该聚合物电解质体系的微观调控规律：
 
-【溶剂化结构与氢键网络】
+**溶剂化结构与氢键网络**
+<p align="center">
+  <img src="images/2026_JEC_Li-S_Fig_SI.jpg" alt="Fig_SI" width="95%"/>
+</p>
 系统揭示PEGDA高分子链 + EMIM:DCA离子液体体系内的三维氢键网络
 独特的溶剂化构型：DCA<sup>-</sup>阴离子优先进入Li<sup>+</sup>第一配位壳层，形成[Li(DCA)<sub>2</sub>]<sup>3-</sup>簇，这直接促进了锂盐解离
 
-【 Li⁺ 传输动力学】
+**Li<sup>+</sup>传输动力学**
+<p align="center">
+  <img src="images/2026_JEC_Li-S_Fig_4.jpg" alt="Fig_4" width="95%"/>
+</p>
 DCA<sup>-</sup>与Li<sup>+</sup>的强配位作用是提升离子电导率的关键（结合能证实）
 研究了Li<sup>+</sup>沿PEGDA高分子链的逐位迁移机理，揭示了聚合物骨架本身的离子传输贡献
 
-【多硫化物（LiPSs）催化转化机理】
+**多硫化物（LiPSs）催化转化机理**
+<p align="center">
+  <img src="images/2026_JEC_Li-S_Fig_5.jpg" alt="Fig_5" width="95%"/>
+</p>
 在CoN表面计算了多硫化物的完整吉布斯自由能变，决速步能垒仅0.70 eV
 Co<sub>2</sub>C表面则展现更强的多硫化物吸附能力
 
-【Li在电极表面的超快扩散】
+**Li<sup>+</sup>在电极表面的超快扩散**
 发现CoN表面Li<sup>+</sup>扩散能垒低至0.085 eV，比Co<sub>2</sub>C低了近一个数量级。这意味着CoN不仅是催化剂，更是天然的“离子高速公路”，理论扩散系数高出5个数量级
 
 </details> 
