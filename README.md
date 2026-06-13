@@ -40,7 +40,7 @@
 ---
 ## 📑 第一作者工作（First-Author Works）
 
-1. **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
+[2] **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
 <details>
 <summary>（展开/折叠）化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势</summary>
@@ -62,7 +62,7 @@
 
 <br>
    
-2. **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6) | 期刊年度精选top10
+[1] **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6) | 期刊年度精选top10
 
 <details>
 <summary>氮化物屏障用作环境涂层：来自第一性原理计算的关键微观机制和重大应用</summary>
@@ -105,6 +105,9 @@
 • 设计启示：细化晶粒能够延长 Cl⁻ 有效扩散路径，同时捕集这些 Cl⁻；引入润滑相以降低摩擦系数，从而缓解钝化膜破损。
 
 </details> 
+
+**Under Preparation**
+[3] **Q. He**, et al., *Adsorbate-induced grain boundary embrittlement in Ni-rich NMC Cathodes*
 
 ---
 ## 🔗 合作工作（Collaborative Works）
