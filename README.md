@@ -41,13 +41,12 @@
 
 1. **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
+<details>
+<summary>（展开/折叠）化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势</summary>
 <p align="center">
   <img src="images/2024_Acta_Chemical_TOC.jpg" alt="TOC" width="95%"/>
 </p>
 
-<details>
-<summary>（展开/折叠）化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势</summary>
-  
 - 以“成键机制决定了热力学和动力学趋势”为主线，通过第一性原理计算系统阐明了原子氢在 TiN 与 AlN 三种晶体结构中的行为。
 
 - 首先分析了 H–N 和 H–Metal 的共价-离子混合化学成键模式，发现成键强度受氢的电子个数（Q<sub>H</sub>）调控，从而构建出普适的E<sub>f</sub>–Q<sub>H</sub>“火山曲线”规律：Q<sub>H</sub> 接近 1 e（中性）时氢最不稳定，偏离该值时因更强的离子或共价相互作用而趋于稳定。
