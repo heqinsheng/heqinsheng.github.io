@@ -33,7 +33,12 @@
 - 研究方法：多种电子结构表征方法，包括态密度（DOS）、电荷密度、电子轨道布居分析（COHP）等；轻推弹性带方法（NEB）；简谐近似过渡态理论（hTST）。
 
 ### 博士 / 锂电池正极材料的多尺度力学-化学耦合失效（Multi-scale Mechano-chemical Coupling-Driven Failure in Li-ion Battery Cathodes） 
+- 研究内容：富镍层状正极Li[Ni<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>]O2（NMC）的失效机制
+1. 正极/电解液界面的复杂力学-化学耦合行为
+2. 多尺度缺陷的力学效应（点、线、面缺陷）
+……
 
+- 研究方法：密度泛函理论（DFT），分子动力学（MD），第一性原理分子动力学（AIMD），机器学习分子动力学（MLMD），有限元方法（FEM）
 
 
 
