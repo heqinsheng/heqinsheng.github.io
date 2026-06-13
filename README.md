@@ -141,7 +141,7 @@
 <summary>通过集成离子凝胶聚合物电解质的工程策略，增强准固态锂硫电池中的离子传输性能与硫氧化还原反应效率</summary>
  
   <p align="center">
-  <img src="images/2026_JEC_Li-S_TOC.jpg" alt="TOC" width="75%"/>
+  <img src="images/2026_JEC_Li-S_TOC.jpg" alt="TOC" width="60%"/>
 </p>
   
 - 本研究设计了一种离子凝胶聚合物电解质（Co<sub>2</sub>C/CoN/NC-GPE-IL），将Co<sub>2</sub>C/CoN异质结构负载于三维氮掺杂碳骨架上，并引入EMIM:DCA离子液体，实现了对多硫化物的强吸附与催化转化，同时提高离子电导率和安全性。电池在0.5C下循环200次容量保持85%，4C下2000次循环每圈衰减仅0.015%
