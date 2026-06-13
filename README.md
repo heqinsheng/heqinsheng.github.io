@@ -135,7 +135,7 @@
 
 <br>
 
-4. Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries*, **Journal of Energy Chemistry**. (In Press, Journal Pre-proof) | [DOI](10.1016/j.jechem.2026.05.007)
+4. Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries*, **Journal of Energy Chemistry**. 119 (2026) 849-866 | [DOI](10.1016/j.jechem.2026.05.007)
 
 <details>
 <summary>通过集成离子凝胶聚合物电解质的工程策略，增强准固态锂硫电池中的离子传输性能与硫氧化还原反应效率</summary>
