@@ -50,7 +50,7 @@
 [3] (Under Preparation) **Q. He**, et al., *Interfacial adsorbate-induced grain boundary decohesion in Ni-rich NMC Cathodes*, (2026).
 
 <details>
-<summary>（待投）界面吸附物诱导的高镍NMC正极晶界解理</summary>
+<summary>（待投）界面吸附物诱导的富镍NMC正极晶界解理</summary>
 
 </details> 
 
