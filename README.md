@@ -50,14 +50,14 @@
 [3] (Under Preparation) **Q. He**, et al., *Interfacial adsorbate-induced grain boundary decohesion in Ni-rich NMC Cathodes*, (2026).
 
 <details>
-<summary>界面吸附物诱导的高镍NMC正极晶界解理</summary>
+<summary>（待投）界面吸附物诱导的高镍NMC正极晶界解理</summary>
 
 </details> 
 
 [2] **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
 <details>
-<summary>（展开/折叠）化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势</summary>
+<summary>化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势</summary>
 <p align="center">
   <img src="images/2024_Acta_Chemical_TOC.jpg" alt="TOC" width="95%"/>
 </p>
