@@ -1,5 +1,5 @@
 # 何钦生（Qinsheng He） 
-*PhD Candidate*  
+*Doctoral Candidate*  
 📍 Xi'an, China 
 | [GitHub](https://github.com/QS-He)
 | [ResearchGate](https://www.researchgate.net/profile/He-Qin-Sheng?ev=prf_overview)
@@ -19,11 +19,11 @@
 ## 🎓 教育背景 (Education)
 | 时间 (Period) | 院校 (Institution) | 学院/中心 (Department/Center) | 学位 (Degree) |
 |---------------|--------------------|-------------------------------|---------------|
-| 2017.09 - 2021.06 | 重庆大学 | 材料科学与工程学院 | 工学学士 (BSc) |
-| 2021.09 - 2024.06 | 宁波大学 | 材料科学与化学工程学院 | 材料与化工硕士 (MSc) |
-| 2021.09 - 2024.06 | 中科院宁波材料所 | 前沿交叉科学研究中心 | 联合培养硕士 |
-| 2024.09 - 2025.06 | 西安交通大学 | 航天航空学院 | 研究助理 (RA) |
-| 2025.09 - 至今 | 西安交通大学 | 航天航空学院 | 博士研究生 |
+| 2017.09 - 2021.06 | 重庆大学（Chongqing University） | 材料科学与工程学院（School of Materials Science and Engineering） | 工学学士 (Bachelor of Engineering) |
+| 2021.09 - 2024.06 | 宁波大学（Ningbo University） | 材料科学与化学工程学院（School of Materials Science and Chemical Engineering） | 材料与化工硕士 (Master of Materials and Chemical Engineering) |
+| 2021.09 - 2024.06 | 中科院宁波材料所（Ningbo Institute of Materials Technology and Engineering, CAS） | 前沿交叉科学研究中心（Advanced Interdisciplinary Research Center） | 联合培养硕士（Joint Master's Degree） |
+| 2024.09 - 2025.06 | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 研究助理 (RA) |
+| 2025.09 - 至今（Present） | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 博士研究生（Doctoral Candidate） |
 
 ---
 ## 🔬 研究方向 (Research Interests)
