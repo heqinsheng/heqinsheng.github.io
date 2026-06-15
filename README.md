@@ -22,8 +22,8 @@
 | 2017.09 - 2021.06 | 重庆大学（Chongqing University） | 材料科学与工程学院（School of Materials Science and Engineering） | 工学学士 (Bachelor of Engineering) | - |
 | 2021.09 - 2024.06 | 宁波大学（Ningbo University） | 材料科学与化学工程学院（School of Materials Science and Chemical Engineering） | 材料与化工硕士 (Master of Materials and Chemical Engineering) | - |
 | 2021.09 - 2024.06 | 中科院宁波材料所（Ningbo Institute of Materials Technology and Engineering, CAS） | [前沿交叉科学研究中心（Advanced Interdisciplinary Research Center）](https://aircenter.nimte.ac.cn/) | 联合培养硕士（Joint Master's Degree） | [Liang-Feng Huang](https://aidme.nimte.ac.cn/) |
-| 2024.09 - 2025.06 | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 研究助理 (RA) |
-| 2025.09 - Present | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 博士研究生（Doctoral Candidate） |
+| 2024.09 - 2025.06 | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 研究助理 (RA) | - |
+| 2025.09 - Present | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 博士研究生（Doctoral Candidate） | Rong Xu |
 
 ---
 ## 🔬 研究方向 (Research Interests)
