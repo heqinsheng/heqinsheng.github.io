@@ -56,6 +56,8 @@
 
 [2] **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
+[Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs]([https://www.xiaohongshu.com/user/profile/638e3438000000001f01b9e7](https://doi.org/10.1016/j.actamat.2024.120447))
+
 <details>
 <summary>化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势</summary>
 <p align="center">
