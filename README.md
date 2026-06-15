@@ -18,7 +18,7 @@
 
 ## 🎓 教育背景 (Education)
 | 时间 (Period) | 院校 (Institution) | 学院/中心 (Department/Center) | 学位 (Degree) | 导师（Supervisor）|
-|-------------|------------------|-----------------------------|----------------|
+|-------------|------------------|-----------------------------|----------------|---------|
 | 2017.09 - 2021.06 | 重庆大学（Chongqing University） | 材料科学与工程学院（School of Materials Science and Engineering） | 工学学士 (Bachelor of Engineering) | - |
 | 2021.09 - 2024.06 | 宁波大学（Ningbo University） | 材料科学与化学工程学院（School of Materials Science and Chemical Engineering） | 材料与化工硕士 (Master of Materials and Chemical Engineering) | - |
 | 2021.09 - 2024.06 | 中科院宁波材料所（Ningbo Institute of Materials Technology and Engineering, CAS） | [前沿交叉科学研究中心（Advanced Interdisciplinary Research Center）](https://aircenter.nimte.ac.cn/) | 联合培养硕士（Joint Master's Degree） | [Liang-Feng Huang](https://aidme.nimte.ac.cn/) |
