@@ -47,16 +47,16 @@
 
 
 
-[3] (Under Preparation) **Q. He**, et al., *Interfacial adsorbate-induced grain boundary decohesion in Ni-rich NMC Cathodes*, (2026).
+[3] (Under Preparation) **Q. He**, X. He*, R. Xu*, et al., Interfacial adsorbate-induced grain boundary decohesion in Ni-rich NMC Cathodes, (2026).
 
 <details>
 <summary>（待投）界面吸附物诱导的富镍NMC正极晶界解理</summary>
 
 </details> 
 
-[2] **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
+<br>
 
-[Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs]([https://www.xiaohongshu.com/user/profile/638e3438000000001f01b9e7](https://doi.org/10.1016/j.actamat.2024.120447))
+[2] **Q. He**, T.-Y. Sun, L.-F. Huang*, [Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs](https://doi.org/10.1016/j.actamat.2024.120447), **Acta Materialia** 281, 120447 (2024). | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
 <details>
 <summary>化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势</summary>
@@ -78,7 +78,7 @@
 
 <br>
    
-[1] **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6) | 期刊年度精选top10
+[1] **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, [Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations](https://doi.org/10.1007/s44251-024-00053-6), **Surface Science and Technology** 2, 24 (2024). | 期刊年度精选top10
 
 <details>
 <summary>氮化物屏障用作环境涂层：来自第一性原理计算的关键微观机制和重大应用</summary>
@@ -125,7 +125,7 @@
 ---
 ## 🔗 合作工作（Collaborative Works）
 
-[4] Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, *Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries*, **Journal of Energy Chemistry**. 119  849-866 (2026). | [DOI](10.1016/j.jechem.2026.05.007)
+[4] Y. Li#, **Q. He#**, X. He, B. Jin*, M. Cui, Q. Jiang, [Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries](10.1016/j.jechem.2026.05.007), **Journal of Energy Chemistry**. 119  849-866 (2026).
 
 <details>
 <summary>通过集成离子凝胶聚合物电解质的工程策略，增强准固态锂硫电池中的离子传输性能与硫氧化还原反应效率</summary>
@@ -169,7 +169,9 @@
 
 </details> 
 
-[3] X. Fan#, W. He#, Z. Zhang#, B. He, Y. Lin, **Q. He**, L.-F. Huang, S. Ren*, Z. Lu*, J. Pu*, Q. Xue, *Enhancing irradiation tolerance and inducing superlubricity in MoS<sub>2</sub>/W multilayer film exposed to atomic oxygen*, **Communications Materials** 6, 160 (2025). | [DOI](https://www.nature.com/articles/s43246-025-00884-2)
+<br>
+
+[3] X. Fan#, W. He#, Z. Zhang#, B. He, Y. Lin, **Q. He**, L.-F. Huang, S. Ren*, Z. Lu*, J. Pu*, Q. Xue, [Enhancing irradiation tolerance and inducing superlubricity in MoS<sub>2</sub>/W multilayer film exposed to atomic oxygen](https://www.nature.com/articles/s43246-025-00884-2), **Communications Materials** 6, 160 (2025).
 
 <details>
 <summary>原子氧辐照环境下 MoS₂/W 多层膜的耐辐照性能提升及超润滑行为诱导</summary>
@@ -178,7 +180,7 @@
 
 <br>
 
-[2] N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*, **Advanced Materials** 36, 2408903 (2024). | [DOI](https://doi.org/10.1002/adma.202408903) | 🔥高被引
+[2] N. Zhang, **Q. He**, L. Zhang, et al., [Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries](https://doi.org/10.1002/adma.202408903), **Advanced Materials** 36, 2408903 (2024). | 🔥高被引
 
 <details>
 <summary>均匀氟掺杂实现高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质以迈向全固态锂电池</summary>
@@ -187,7 +189,7 @@
 
 <br>
 
-[1] Y. Jin, **Q. He**, G. Liu, et al., *Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> enables stable all-solid-state lithium batteries*, **Advanced Materials** 35, 2211047 (2023). | [DOI](https://doi.org/10.1002/adma.202211047) | 🔥高被引
+[1] Y. Jin, **Q. He**, G. Liu, et al., [Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> enables stable all-solid-state lithium batteries](https://doi.org/10.1002/adma.202211047), **Advanced Materials** 35, 2211047 (2023). | 🔥高被引
 
 <details>
 <summary>氟化Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质稳定全固态锂电池</summary>
