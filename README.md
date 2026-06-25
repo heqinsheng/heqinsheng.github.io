@@ -21,9 +21,9 @@
 |-------------|------------------|-----------------------------|----------------|---------|
 | 2017.09 - 2021.06 | 重庆大学（Chongqing University） | 材料科学与工程学院（School of Materials Science and Engineering） | 工学学士 (Bachelor of Engineering) | - |
 | 2021.09 - 2024.06 | 宁波大学（Ningbo University） | 材料科学与化学工程学院（School of Materials Science and Chemical Engineering） | 材料与化工硕士 (Master of Materials and Chemical Engineering) | - |
-| 2021.09 - 2024.06 | 中科院宁波材料所（Ningbo Institute of Materials Technology and Engineering, CAS） | [前沿交叉科学研究中心（Advanced Interdisciplinary Research Center）](https://aircenter.nimte.ac.cn/) | 联合培养硕士（Joint Master's Degree） | [Liang-Feng Huang](https://aidme.nimte.ac.cn/) |
-| 2024.09 - 2025.06 | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 研究助理 (RA) | - |
-| 2025.09 - Present | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 博士研究生（Doctoral Candidate） | Rong Xu |
+| 2021.09 - 2024.06 | 中科院宁波材料所（Ningbo Institute of Materials Technology and Engineering, CAS） | [前沿交叉科学研究中心（Advanced Interdisciplinary Research Center）](https://aircenter.nimte.ac.cn/) | 联合培养硕士（Joint Master's Degree） | [Prof. Liang-Feng Huang](https://aidme.nimte.ac.cn/) |
+| 2024.09 - 2025.06 | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 研究助理 (RA) | [Prof. Rong Xu](https://faculty.xjtu.edu.cn/rongxu/zh_CN/index.htm) |
+| 2025.09 - Present | 西安交通大学（Xi'an Jiaotong University） | 航天航空学院（School of Aerospace Engineering） | 博士研究生（Doctoral Candidate） | [Prof. Rong Xu](https://faculty.xjtu.edu.cn/rongxu/zh_CN/index.htm) |
 
 ---
 ## 🔬 研究方向 (Research Interests)
@@ -47,10 +47,10 @@
 
 
 
-[3] (Under Preparation) **Q. He**, X. He*, R. Xu*, et al., Interfacial adsorbate-induced grain boundary decohesion in Ni-rich NMC Cathodes, (2026).
+[3] (Under Preparation) **Q. He**, X. He*, R. Xu*, et al., Interfacial adsorbate-induced grain boundary decohesion in Ni-rich Cathodes, (2026).
 
 <details>
-<summary>（待投）界面吸附物诱导的富镍NMC正极晶界解理</summary>
+<summary>（待投）界面吸附物诱导的富镍正极晶界解理</summary>
 
 </details> 
 
@@ -183,7 +183,7 @@
 [2] N. Zhang, **Q. He**, L. Zhang, et al., [Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries](https://doi.org/10.1002/adma.202408903), **Advanced Materials** 36, 2408903 (2024). | 🔥高被引
 
 <details>
-<summary>均匀氟掺杂实现高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质以迈向全固态锂电池</summary>
+<summary>均匀氟掺杂实现高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质</summary>
   
 </details> 
 
