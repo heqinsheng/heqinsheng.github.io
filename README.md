@@ -74,8 +74,6 @@
 
 - 提出涂层阻氢的“热力学屏障”与“动力学屏障”双重判据，解释了实验报道的氮化物涂层多变的氢渗透率（与晶界等缺陷通道密切相关），并为面向严苛服役环境的高可靠氢渗透阻挡涂层提供了可量化的设计原则。
 
-- “There is only one major theoretical study in the literature on hydrogen insertion into the TiN system: that of He et al.” —— Damien Connétable, [Effect of the stoichiometry on the insertion and diffusion of hydrogen in titanium nitrides](https://doi.org/10.1016/j.ijhydene.2026.155445)
-
 </details> 
 
 <br>
