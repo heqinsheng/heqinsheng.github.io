@@ -9,12 +9,12 @@
 
 ## 📮 联系方式 (Contact Me)
 **📧 邮件（Email）**
-  992777103@qq.com / he992777103@126.com
+ heqinsheng@stu.xjtu.edu.cn
 
+ <!--
 **📱 电话（Tel）**
-  173 4781 1227
-
----
+  17347811227
+-->
 
 ## 🎓 教育背景 (Education)
 | 时间 (Period) | 院校 (Institution) | 学院/中心 (Department/Center) | 学位 (Degree) | 导师（Supervisor）|
@@ -125,12 +125,21 @@
 ---
 ## 🔗 合作工作（Collaborative Works）
 
-[5] (Under Review) X. He, **Q. He**, et al., Exploring ****** by Atomistic Modeling, 2026.
+[6] (Under Review) X. He, **Q. He**, et al., Exploring ****** by Atomistic Modeling, 2026.
 
 <details>
 <summary>（在投）通过原子建模探索******</summary>
+ </details> 
  
-</p>
+<br>
+
+[6] (Under Review) X. He, G. Jin, **Q. He**, et al., Origin of elastic anisotropy in ******, 2026.
+
+<details>
+<summary>（在投）******中的弹性各向异性起源</summary>
+ </details> 
+ 
+<br>
 
 [4] Y. Li#, **Q. He**#, X. He, B. Jin*, M. Cui, Q. Jiang, [Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries](10.1016/j.jechem.2026.05.007), **Journal of Energy Chemistry**. 119  849-866 (2026).
 
