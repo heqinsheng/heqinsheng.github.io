@@ -125,6 +125,13 @@
 ---
 ## 🔗 合作工作（Collaborative Works）
 
+[5] (Under Review) X. He, **Q. He**, et al., Exploring ****** by Atomistic Modeling, 2026.
+
+<details>
+<summary>（在投）通过原子建模探索******</summary>
+ 
+</p>
+
 [4] Y. Li#, **Q. He**#, X. He, B. Jin*, M. Cui, Q. Jiang, [Engineering strategy with an integrated ionogel polymer electrolyte to enhance ion transport and sulfur redox conversion in quasi-solid-state Li-S batteries](10.1016/j.jechem.2026.05.007), **Journal of Energy Chemistry**. 119  849-866 (2026).
 
 <details>
