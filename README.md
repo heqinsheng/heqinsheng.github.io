@@ -133,7 +133,7 @@
  
 <br>
 
-[6] (Under Review) X. He, G. Jin, **Q. He**, et al., Origin of elastic anisotropy in ******, 2026.
+[5] (Under Review) X. He, G. Jin, **Q. He**, et al., Origin of elastic anisotropy in ******, 2026.
 
 <details>
 <summary>（在投）******中的弹性各向异性起源</summary>
