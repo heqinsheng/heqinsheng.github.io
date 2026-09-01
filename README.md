@@ -139,7 +139,7 @@
 <summary>O3型层状钠离子正极的弹性各向异性起源</summary>
 
   <p align="center">
-  <img src="images/2026_NE_Na_TOC.jpg" alt="TOC" width="60%"/>
+  <img src="images/2026_NanoEnergy_Na_TOC.jpg" alt="TOC" width="60%"/>
 </p>
 
 - 通过第一性原理计算，系统地揭示 O3 型 Ni/Fe/Mn 基层状氧化物（Na<sub>x</sub>Ni<sub>0.4</sub>Fe<sub>0.2</sub>Mn<sub>0.4</sub>O<sub>2</sub>）的弹性各向异性在脱钠过程中的演化
