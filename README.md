@@ -133,10 +133,10 @@
  
 <br>
 
-[5] (Under Review) X. He, G. Jin, **Q. He**, et al., Origin of elastic anisotropy in ******, 2026.
+[5] X. He, G. Jin, **Q. He**, et al., [Origin of elastic anisotropy in O3-type layered sodium cathode](https://www.sciencedirect.com/science/article/pii/S2211285526005744?via%3Dihub#bib18), **Nano Energy**, 157 112270 (2026).
 
 <details>
-<summary>（在投）******中的弹性各向异性起源</summary>
+<summary>O3型层状钠离子正极的弹性各向异性起源</summary>
  </details> 
  
 <br>
