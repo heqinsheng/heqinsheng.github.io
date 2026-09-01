@@ -133,10 +133,19 @@
  
 <br>
 
-[5] X. He, G. Jin, **Q. He**, et al., [Origin of elastic anisotropy in O3-type layered sodium cathode](https://www.sciencedirect.com/science/article/pii/S2211285526005744?via%3Dihub#bib18), **Nano Energy**, 157 112270 (2026).
+[5] X. He, G. Jin, **Q. He**, C. Liang, R. Xu, [Origin of elastic anisotropy in O3-type layered sodium cathode](https://www.sciencedirect.com/science/article/pii/S2211285526005744?via%3Dihub#bib18), **Nano Energy**, 157 112270 (2026).
 
 <details>
 <summary>O3型层状钠离子正极的弹性各向异性起源</summary>
+
+  <p align="center">
+  <img src="images/2026_NE_Na_TOC.jpg" alt="TOC" width="60%"/>
+</p>
+
+- 通过第一性原理计算，系统地揭示 O3 型 Ni/Fe/Mn 基层状氧化物（Na<sub>x</sub>Ni<sub>0.4</sub>Fe<sub>0.2</sub>Mn<sub>0.4</sub>O<sub>2</sub>）的弹性各向异性在脱钠过程中的演化
+- JT 活性离子占位调节了相依赖的弹性模量退化速率
+- 脱钠过程中层内（TM-O）和层间（Na-O）键强度的演变驱动各向异性指数呈指数增长。
+
  </details> 
  
 <br>
